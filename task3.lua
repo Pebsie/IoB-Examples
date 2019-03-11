@@ -4,7 +4,7 @@
 	Written by Thomas Lock. Last updated February 18th 2018 @ 11:50am. v1.
 ]]
 
-username = "demo"
+username = "demo" -- You're gonna want to change this!
 password = "demo"
 
 result = api.get("?a=login&username="..username.."&password="..password)
